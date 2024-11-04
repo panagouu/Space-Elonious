@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|solutionrelative:Space\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|solutionrelative:Space\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|solutionrelative:Space\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|solutionrelative:Space\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|solutionrelative:Space\\box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|solutionrelative:Space\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|solutionrelative:Space\\Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|solutionrelative:Space\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|solutionrelative:Space\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37A55455-FA0F-4AD5-B33B-318EF80B3CA8}|Space\\Space.vcxproj|solutionrelative:Space\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Level.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Level.cpp",
+              "RelativeDocumentMoniker": "Space\\Level.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Level.cpp",
+              "RelativeToolTip": "Space\\Level.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T12:22:36.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Player.cpp",
+              "RelativeDocumentMoniker": "Space\\Player.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Player.cpp",
+              "RelativeToolTip": "Space\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T12:22:36.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "box.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\box.h",
+              "RelativeDocumentMoniker": "Space\\box.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\box.h",
+              "RelativeToolTip": "Space\\box.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T12:22:36.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameObject.cpp",
+              "RelativeDocumentMoniker": "Space\\GameObject.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameObject.cpp",
+              "RelativeToolTip": "Space\\GameObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T12:22:36.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameObject.h",
+              "RelativeDocumentMoniker": "Space\\GameObject.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameObject.h",
+              "RelativeToolTip": "Space\\GameObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T12:22:36.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Level.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Level.h",
+              "RelativeDocumentMoniker": "Space\\Level.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Level.h",
+              "RelativeToolTip": "Space\\Level.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T12:22:36.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Player.h",
+              "RelativeDocumentMoniker": "Space\\Player.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\Player.h",
+              "RelativeToolTip": "Space\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T12:22:36.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameState.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameState.cpp",
+              "RelativeDocumentMoniker": "Space\\GameState.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameState.cpp",
+              "RelativeToolTip": "Space\\GameState.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T12:22:36.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameState.h",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameState.h",
+              "RelativeDocumentMoniker": "Space\\GameState.h",
+              "ToolTip": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\GameState.h",
+              "RelativeToolTip": "Space\\GameState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T12:22:36.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\main.cpp",
+              "RelativeDocumentMoniker": "Space\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\AUEB\\Current Courses\\Programming With C\u002B\u002B\\Project\\3190151\\Space\\Space\\main.cpp",
+              "RelativeToolTip": "Space\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T12:22:36.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
