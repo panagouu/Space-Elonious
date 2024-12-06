@@ -45,6 +45,12 @@ void Level::draw()
 	if (m_state->getPlayer()->isActive())
 	{
 		m_state->getPlayer()->draw();
+		m_state->getPlayer()->drawHealth();
+	}
+
+	if (m_state->getWeapon()->isActive())
+	{
+		m_state->getWeapon()->draw();
 	}
 
 	for (auto p : m_static_objects)

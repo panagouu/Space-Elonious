@@ -13,9 +13,9 @@ private:
 
 	static GameState* m_unique_instance;
 
-	GameState(); // εδω να διαχειριζετε τον παιχτη και τα λεβελ
+	GameState(); 
 
-	class Player * m_player = 0; // κυκλική εξάρτηση και στα δύο 
+	class Player* m_player = 0; // κυκλική εξάρτηση και στα δύο
 	class Level* m_current_level = 0;
 
 
@@ -23,6 +23,7 @@ public:
 	float m_global_offset_x = 0.0f; 
 	float m_global_offset_y = 0.0f;
 	bool m_debugging = false;
+	class Weapon* m_weapon = 0;
 
 	void init();
 	void draw();
@@ -38,5 +39,6 @@ public:
 	std::string getFullAssetPath(const std::string& asset);
 
 	class Player* getPlayer() { return m_player; }
+	class Weapon* getWeapon() { return m_weapon; }
 
 };

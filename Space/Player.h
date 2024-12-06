@@ -3,11 +3,14 @@
 #include "gameobject.h"
 #include <sgg/graphics.h>
 #include <string>
+#include "Weapon.h"
 
 class Player : public GameObject, public Box
 {
     graphics::Brush m_brush_player;
-    std::vector<std::string> m_sprites;
+    graphics::Brush m_brush_lives;
+    //std::vector<Weapon> m_sprites;
+    Weapon* weapon;
 
     const float m_gravity = 10.0f;
     const float m_accel_vertical = 200.0f;
@@ -19,13 +22,19 @@ class Player : public GameObject, public Box
 public:
     float m_vx = 0.0f;
     float m_vy = 0.0f;
+    unsigned short current_health = 10;
 
     void update(float dt) override;
     void init() override;
     void draw() override;
+
+    void drawHealth();
+    void activateWeapon();
     Player(std::string name) :GameObject(name) {}
 
 protected:
     void debugDraw();
+    unsigned short getHealth() { return current_health; }
+    void updateHealth(unsigned short new_health) { current_health = new_health; }
 };
 
